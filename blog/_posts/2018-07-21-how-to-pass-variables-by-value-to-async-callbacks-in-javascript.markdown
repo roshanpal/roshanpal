@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HOW TO PASS A VARIABLE BY VALUE TO ASYNC CALLBACKS IN JAVASCRIPT (NODEJS)"
-date:   2017-08-13 14:57:42 +0530
+date:   2018-07-21 14:57:42 +0530
 categories: Education Offers
 ---
 

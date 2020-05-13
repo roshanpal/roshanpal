@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IS BITCOIN LEGAL IN INDIA? HOW TO START TRADING BITCOIN?"
-date:   2017-08-13 14:57:42 +0530
+date:   2017-11-11 14:57:42 +0530
 categories: Education Offers
 ---
 
