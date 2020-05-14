@@ -34,6 +34,7 @@ plugins:
 
 remote_theme: thelehhman/plainwhite-jekyll
 permalink: /:title:output_ext
+destination: ./blog
 
 plainwhite:
   name: Roshan Pal
