@@ -23,7 +23,7 @@ email: palappdev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Programming blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://roshanpal.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://roshanpal.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _roshanpal
 github_username:  roshanpal
 
@@ -32,10 +32,16 @@ theme: plainwhite
 plugins:
   - jekyll-feed
 
+remote_theme: thelehhman/plainwhite-jekyll
+permalink: /:title:output_ext
+
 plainwhite:
   name: Roshan Pal
   tagline: Full Stack Developer
   date_format: "%b %-d, %Y"
+  sitemap: true
+  show_excerpts: true
+  disqus_shortname: roshanpal
 
   social_links:
     twitter: _roshanpal
