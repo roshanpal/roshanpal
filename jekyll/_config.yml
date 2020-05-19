@@ -23,7 +23,7 @@ email: palappdev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Programming blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://roshanpal.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://roshanpal" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _roshanpal
 github_username:  roshanpal
 
@@ -34,7 +34,6 @@ plugins:
 
 remote_theme: thelehhman/plainwhite-jekyll
 permalink: /:title:output_ext
-# destination: ./blog
 
 plainwhite:
   name: Roshan Pal
@@ -67,5 +66,4 @@ plainwhite:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
 #   - vendor/ruby/
