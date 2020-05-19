@@ -9,7 +9,7 @@ LinkedIn is the facebook for prefessionals. Anyone working in the IT industry mu
 
 Recently LinkedIn came up with a premium membership option. If you are a premium member, your profile will be having a lot more visibility than regular profile. When you apply for companies, you will be getting a free boost on your application and you will have a higher chance of landing an interview with the company. The minimum cost of a premium LinkedIn membership is $29.99 USD per month, which is pretty expensive in my opinion. A lot of people who are in the beginning of their career journey may find it difficult to pay every month. The premium membership of LinkedIn comes with other benefits such as LinkedIn Learning which is very useful resource to upgrade your professional skills. This is an added bonus of having a premium membership.
 
-![Get 3 months LinkedIn premium for free](https://roshanpal.com/blog/wp-content/uploads/2018/12/Screen-Shot-2018-12-26-at-12.13.43-PM.png)
+![Get 3 months LinkedIn premium for free](https://roshanpal.com/blog/assets/Screen-Shot-2018-12-26-at-12.13.43-PM.png)
 
 Previously I had written about getting [Pluralsight subscription for free](https://roshanpal.com/blog/pluralsight-3-months-free-subscription/). Today I’ll show you how you can get a free premium LinkedIn account for 3 months
 
